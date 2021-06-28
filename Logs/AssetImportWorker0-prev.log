@@ -1,0 +1,171 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 8047 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ADMIN/Desktop/hitman
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58664
+Successfully changed project path to: C:/Users/ADMIN/Desktop/hitman
+C:/Users/ADMIN/Desktop/hitman
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 93.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ADMIN/Desktop/hitman/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003087 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 59.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.482 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 72.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.763 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 3.812400 ms (FindLiveObjects: 0.355200 ms CreateObjectMapping: 0.183400 ms MarkObjects: 3.079700 ms  DeleteObjects: 0.192200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/50084 copy_103.controller
+  artifactKey: Guid(a794e99288acf4344ab17d2e552b1520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/50084 copy_103.controller using Guid(a794e99288acf4344ab17d2e552b1520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4152b98308c2931c02f1b94a354fdef') in 0.089230 seconds 
+  Import took 0.098532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2933.188914 seconds.
+  path: Assets/Sprites/titles
+  artifactKey: Guid(cfbf7c1619579aa4cb02749419270f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles using Guid(cfbf7c1619579aa4cb02749419270f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b960e40253aa54ee3624b9a1b79cb987') in 0.019739 seconds 
+  Import took 0.034481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.117023 seconds.
+  path: Assets/Sprites/titles/Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset.png
+  artifactKey: Guid(9e291ceee0aa760419e663b005ed814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset.png using Guid(9e291ceee0aa760419e663b005ed814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd409a8f5f14d28264d8fa0022a2b8b') in 0.151121 seconds 
+  Import took 0.155870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png
+  artifactKey: Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png using Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0365268ea7dcdd3b6375a5f8c8619642') in 0.025278 seconds 
+  Import took 0.031176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Sprites/titles/groundsquare_1m.png
+  artifactKey: Guid(9c098f6997c7cfa4585d22ea184b4314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/groundsquare_1m.png using Guid(9c098f6997c7cfa4585d22ea184b4314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac36443cb7857e9c7166ecf3b1bc6c9b') in 0.028330 seconds 
+  Import took 0.035032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Sprites/titles/cliff.png
+  artifactKey: Guid(043125a7ea9254e4887cdc479c3b71ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/cliff.png using Guid(043125a7ea9254e4887cdc479c3b71ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c379521cb2b3c3d0d556e1abf79ca3c7') in 0.061075 seconds 
+  Import took 0.067359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.807145 seconds.
+  path: Assets/Sprites/main
+  artifactKey: Guid(bdf7bcee60d38a74293aa603d50b8eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/main using Guid(bdf7bcee60d38a74293aa603d50b8eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1584e6361c6e196fc6b4a9f536cc00a4') in 0.015457 seconds 
+  Import took 0.022949 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 2.296400 ms (FindLiveObjects: 0.195400 ms CreateObjectMapping: 0.075100 ms MarkObjects: 1.930500 ms  DeleteObjects: 0.094700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
