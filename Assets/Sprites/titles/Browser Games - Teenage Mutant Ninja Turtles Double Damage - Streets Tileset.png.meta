@@ -1,7 +1,99 @@
 fileFormatVersion: 2
 guid: 9e291ceee0aa760419e663b005ed814f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4779543194486763238
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_0
+  - first:
+      213: -4353879139801989602
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_1
+  - first:
+      213: 2595502969648545617
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_2
+  - first:
+      213: 8651391806428181877
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_3
+  - first:
+      213: -462068657031319508
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_4
+  - first:
+      213: -6121747946304538214
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_5
+  - first:
+      213: 7968365545828819142
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_6
+  - first:
+      213: -679943652430997301
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_7
+  - first:
+      213: 1762057582703877105
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_8
+  - first:
+      213: -4479675272357941112
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_9
+  - first:
+      213: -6624749509047830982
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_10
+  - first:
+      213: -5491132656333233861
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_11
+  - first:
+      213: 7596773786939718390
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_12
+  - first:
+      213: 5254299522807813564
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_13
+  - first:
+      213: 3134456270197975530
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_14
+  - first:
+      213: -5514426744761845309
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_15
+  - first:
+      213: 1573572678267308697
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_16
+  - first:
+      213: -922777806420985400
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_17
+  - first:
+      213: -8405228965261429556
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_18
+  - first:
+      213: 7611267598536986712
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_19
+  - first:
+      213: -2538040792218625170
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_20
+  - first:
+      213: -5574016809756337652
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_21
+  - first:
+      213: 2528454879096327145
+    second: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+      Tileset_22
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +133,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +167,539 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111bf7a9c6abadb0800000000000000
+      internalID: -4779543194486763238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7e1d7df9e393c0800000000000000
+      internalID: -4353879139801989602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 217
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7f570334150420800000000000000
+      internalID: 2595502969648545617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 217
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57570eac20bef0870800000000000000
+      internalID: 8651391806428181877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 269
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207ecb21076699f0800000000000000
+      internalID: -462068657031319508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 30
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a997a006dae2b0ba0800000000000000
+      internalID: -6121747946304538214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 283
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a697ee32559e60800000000000000
+      internalID: 7968365545828819142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 345
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89191c9da5096f0800000000000000
+      internalID: -679943652430997301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb19d22906147810800000000000000
+      internalID: 1762057582703877105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 287
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f00af21ff4d1c0800000000000000
+      internalID: -4479675272357941112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 281
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b243cb692014a0800000000000000
+      internalID: -6624749509047830982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 127
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e5bc31f39bc3b0800000000000000
+      internalID: -5491132656333233861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa7a8182892d6960800000000000000
+      internalID: 7596773786939718390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d678d3950be840800000000000000
+      internalID: 5254299522807813564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 137
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96525ee53df7b20800000000000000
+      internalID: 3134456270197975530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 122
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c97e82a712d873b0800000000000000
+      internalID: -5514426744761845309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 137
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0264830476d510800000000000000
+      internalID: 1573572678267308697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 137
+        width: 60
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b9a16972a133f0800000000000000
+      internalID: -922777806420985400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b4c5f9c0aa5b80800000000000000
+      internalID: -8405228965261429556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850dc3dfd87a0a960800000000000000
+      internalID: 7611267598536986712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9b5ab85117ccd0800000000000000
+      internalID: -2538040792218625170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 408
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ada627e3d15a2b0800000000000000
+      internalID: -5574016809756337652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets
+        Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 313
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc323f050e61320800000000000000
+      internalID: 2528454879096327145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

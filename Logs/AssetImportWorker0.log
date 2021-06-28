@@ -1,0 +1,458 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 8047 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ADMIN/Desktop/hitman/hitman-game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56036
+Successfully changed project path to: C:/Users/ADMIN/Desktop/hitman/hitman-game
+C:/Users/ADMIN/Desktop/hitman/hitman-game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 99.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ADMIN/Desktop/hitman/hitman-game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004058 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.985 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.907 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 4.896600 ms (FindLiveObjects: 0.532200 ms CreateObjectMapping: 0.295600 ms MarkObjects: 3.904900 ms  DeleteObjects: 0.155300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/50084 copy_120.controller
+  artifactKey: Guid(696ef260ad8628a4bb20ca5213c4f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/50084 copy_120.controller using Guid(696ef260ad8628a4bb20ca5213c4f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b88c5b7a51c9c0241ea38b16f9d76fe') in 0.087049 seconds 
+  Import took 0.094071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5409.550618 seconds.
+  path: Assets/Sprites/main/50084 copy.png
+  artifactKey: Guid(2aea2bc6c1e1818409453c6d1e70c231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/main/50084 copy.png using Guid(2aea2bc6c1e1818409453c6d1e70c231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e4ee5ccf4a5f1f652b76fa51e54141') in 0.347762 seconds 
+  Import took 0.366294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.476280 seconds.
+  path: Assets/Sprites/enermies
+  artifactKey: Guid(03a735f333160a64b96bb3d8232fc0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies using Guid(03a735f333160a64b96bb3d8232fc0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94022769e06737c4f8fa4bb525cbd48c') in 0.018086 seconds 
+  Import took 0.025595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029651 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4.png
+  artifactKey: Guid(45c47cc7b08267b4a9789f5f5260a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4.png using Guid(45c47cc7b08267b4a9789f5f5260a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5562c025a7ce4ff9885980249c508380') in 0.045484 seconds 
+  Import took 0.054115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png
+  artifactKey: Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png using Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3c6104ebace5a205e030d7b46dff8a') in 0.035710 seconds 
+  Import took 0.043604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png
+  artifactKey: Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png using Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79497a86c624bac12f3b01c5f5b9837') in 0.033968 seconds 
+  Import took 0.041631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png
+  artifactKey: Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png using Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3c6104ebace5a205e030d7b46dff8a') in 0.029403 seconds 
+  Import took 0.035503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.499457 seconds.
+  path: Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png
+  artifactKey: Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png using Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca362013f4ed9098a226f200cabdaa2c') in 0.036681 seconds 
+  Import took 0.044466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.381053 seconds.
+  path: Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png
+  artifactKey: Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png using Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13247fee3d7715b6d233d4934792ba4') in 0.085637 seconds 
+  Import took 0.094588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.329262 seconds.
+  path: Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png
+  artifactKey: Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Mobile - Demon Hunter Legend 4 - Black Devil.png using Guid(777bed947540ceb47a9aa9a0af6cf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd528f10cc0612a4b4e585e6029d73c7a') in 0.061074 seconds 
+  Import took 0.066861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.801104 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png
+  artifactKey: Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png using Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0978a4216e5a9df22f1f455afdd45e5') in 0.020930 seconds 
+  Import took 0.025938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.121601 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png
+  artifactKey: Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png using Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aac75eb4e5fc70c2b10ecb7deb35e7c') in 0.070964 seconds 
+  Import took 0.075720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.393883 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png
+  artifactKey: Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Teenage Mutant Ninja Turtles Ubisoft - Foot Clan Ninja with Shuriken.png using Guid(bc45679938b2e4e4cb2a7f534dcdddaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9906e876f718edb484793e09045e3f00') in 0.086357 seconds 
+  Import took 0.092561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.537110 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4.png
+  artifactKey: Guid(45c47cc7b08267b4a9789f5f5260a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4.png using Guid(45c47cc7b08267b4a9789f5f5260a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5257b0f05c20ec38ad6718306f0def') in 0.019697 seconds 
+  Import took 0.027137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.264338 seconds.
+  path: Assets/Sprites/enermies/Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4.png
+  artifactKey: Guid(45c47cc7b08267b4a9789f5f5260a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/enermies/Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4.png using Guid(45c47cc7b08267b4a9789f5f5260a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd83a8708a055a01618bd5d49f80a0e') in 0.138808 seconds 
+  Import took 0.147380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.235635 seconds.
+  path: Assets/Sprites/Background Stages
+  artifactKey: Guid(64ad2fd6f2f32a5438e64a2a4bfb8c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages using Guid(64ad2fd6f2f32a5438e64a2a4bfb8c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856444be8c42b41063b177c0829dca7e') in 0.015632 seconds 
+  Import took 0.020805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066781 seconds.
+  path: Assets/Sprites/Background Stages/1.png
+  artifactKey: Guid(0479bc937ca12c0488037a9801a0f012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/1.png using Guid(0479bc937ca12c0488037a9801a0f012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05b93c8b22ec85bacc973d608052d1c') in 0.030838 seconds 
+  Import took 0.035512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Sprites/Background Stages/7.png
+  artifactKey: Guid(c78d9e62c0b206941b9164cc35031d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/7.png using Guid(c78d9e62c0b206941b9164cc35031d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a29bee238c23cac10c38d4b3b23b123') in 0.050072 seconds 
+  Import took 0.055266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Sprites/Background Stages/5.png
+  artifactKey: Guid(819d26f78e61a8642bacca5aafdc320a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/5.png using Guid(819d26f78e61a8642bacca5aafdc320a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2e29616304a0159844ef07436bf88c') in 0.028262 seconds 
+  Import took 0.033661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Sprites/Background Stages/8.png
+  artifactKey: Guid(d745623831d3a8540be0a149a396bd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/8.png using Guid(d745623831d3a8540be0a149a396bd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5085940aac3b9f38bda3b4319190446f') in 0.028567 seconds 
+  Import took 0.035650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Sprites/Background Stages/2.png
+  artifactKey: Guid(520d2be0e5f605f409bdc8e55358e1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/2.png using Guid(520d2be0e5f605f409bdc8e55358e1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1072ff3ee7db435c5c2def0072e71a62') in 0.032434 seconds 
+  Import took 0.039023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Sprites/Background Stages/Browser Games - ET The Way Home - Background.png
+  artifactKey: Guid(40e047a304f8a874cb6993cc7858fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/Browser Games - ET The Way Home - Background.png using Guid(40e047a304f8a874cb6993cc7858fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1065afd98b2e2f5e769a51cdd2309e8c') in 0.033874 seconds 
+  Import took 0.039230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Sprites/Background Stages/6.png
+  artifactKey: Guid(e529cb98c40c635439249c5d0d1ce7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/6.png using Guid(e529cb98c40c635439249c5d0d1ce7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eb01758c68ad25e4fef6ca81a7d01b') in 0.029761 seconds 
+  Import took 0.036594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Sprites/Background Stages/Game Boy Advance - Taiketsu Ultra Hero - The City Night.png
+  artifactKey: Guid(19e77ce5c88b3b34fb0155a8d2962471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/Game Boy Advance - Taiketsu Ultra Hero - The City Night.png using Guid(19e77ce5c88b3b34fb0155a8d2962471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3467f8b1da4a81c0ef2265d62efccd') in 0.025352 seconds 
+  Import took 0.030877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Sprites/Background Stages/6.png
+  artifactKey: Guid(e529cb98c40c635439249c5d0d1ce7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/6.png using Guid(e529cb98c40c635439249c5d0d1ce7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eb01758c68ad25e4fef6ca81a7d01b') in 0.020875 seconds 
+  Import took 0.026091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Sprites/Background Stages/4.png
+  artifactKey: Guid(18fc52c68a4cd11468a1c2d57a67a6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/4.png using Guid(18fc52c68a4cd11468a1c2d57a67a6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77fdc79ceb2b5c9719aa7f3d03a2765') in 0.029358 seconds 
+  Import took 0.035339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Sprites/Background Stages/SNES - Justice League Task Force - Gotham City Batman.png
+  artifactKey: Guid(9d08d1a7d9234b74b85088c57f510871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/SNES - Justice League Task Force - Gotham City Batman.png using Guid(9d08d1a7d9234b74b85088c57f510871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f822a1261781cb7fb5325a3a3c75c3be') in 0.033908 seconds 
+  Import took 0.039523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Sprites/Background Stages/PlayStation - Primal Rage - Jungle.png
+  artifactKey: Guid(170484cd9c7e8a640828b508250bca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/PlayStation - Primal Rage - Jungle.png using Guid(170484cd9c7e8a640828b508250bca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba61c14b246b234369eec7d3c5905c81') in 0.032153 seconds 
+  Import took 0.037581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sprites/Background Stages/SNES - Donkey Kong Country 2 Diddys Kong Quest - Jungle Backgrounds.png
+  artifactKey: Guid(ad9b0e9f380952e4e85a168b23071a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/SNES - Donkey Kong Country 2 Diddys Kong Quest - Jungle Backgrounds.png using Guid(ad9b0e9f380952e4e85a168b23071a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c01097893bef132aa3f2d3eac2e9600') in 0.043559 seconds 
+  Import took 0.049303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Sprites/Background Stages/3.png
+  artifactKey: Guid(f3c52974ee075b4459430dff58fdc855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/3.png using Guid(f3c52974ee075b4459430dff58fdc855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96cbba5c8ac7229bfc7021e32d9a2815') in 0.027137 seconds 
+  Import took 0.033276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.481002 seconds.
+  path: Assets/Sprites/Background Stages/Browser Games - ET The Way Home - Background.png
+  artifactKey: Guid(40e047a304f8a874cb6993cc7858fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/Browser Games - ET The Way Home - Background.png using Guid(40e047a304f8a874cb6993cc7858fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c620e7e15536c632cdc62adb85bdd0df') in 0.016753 seconds 
+  Import took 0.023463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.056090 seconds.
+  path: Assets/Sprites/Background Stages/Browser Games - ET The Way Home - Background.png
+  artifactKey: Guid(40e047a304f8a874cb6993cc7858fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/Browser Games - ET The Way Home - Background.png using Guid(40e047a304f8a874cb6993cc7858fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1387a1d066d93745d8ee947505484aee') in 0.035000 seconds 
+  Import took 0.042436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.926102 seconds.
+  path: Assets/Sprites/Background Stages/Game Boy Advance - Taiketsu Ultra Hero - The City Night.png
+  artifactKey: Guid(19e77ce5c88b3b34fb0155a8d2962471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/Game Boy Advance - Taiketsu Ultra Hero - The City Night.png using Guid(19e77ce5c88b3b34fb0155a8d2962471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae2df96b62ac50565309a46a6919ea9') in 0.014580 seconds 
+  Import took 0.021072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.702096 seconds.
+  path: Assets/Sprites/Background Stages/Game Boy Advance - Taiketsu Ultra Hero - The City Night.png
+  artifactKey: Guid(19e77ce5c88b3b34fb0155a8d2962471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/Game Boy Advance - Taiketsu Ultra Hero - The City Night.png using Guid(19e77ce5c88b3b34fb0155a8d2962471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3421fd345818d85e7e7669563dde9b44') in 0.022493 seconds 
+  Import took 0.027016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.821100 seconds.
+  path: Assets/Sprites/Background Stages/PlayStation - Primal Rage - Jungle.png
+  artifactKey: Guid(170484cd9c7e8a640828b508250bca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/PlayStation - Primal Rage - Jungle.png using Guid(170484cd9c7e8a640828b508250bca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dcfa8c431bc47d6ce477fec41159763') in 0.015070 seconds 
+  Import took 0.019417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.673590 seconds.
+  path: Assets/Sprites/Background Stages/PlayStation - Primal Rage - Jungle.png
+  artifactKey: Guid(170484cd9c7e8a640828b508250bca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/PlayStation - Primal Rage - Jungle.png using Guid(170484cd9c7e8a640828b508250bca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c835c550513605d45d40ad06623478') in 0.062812 seconds 
+  Import took 0.067169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.302492 seconds.
+  path: Assets/Sprites/Background Stages/SNES - Justice League Task Force - Gotham City Batman.png
+  artifactKey: Guid(9d08d1a7d9234b74b85088c57f510871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/SNES - Justice League Task Force - Gotham City Batman.png using Guid(9d08d1a7d9234b74b85088c57f510871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48131ad9a23ac346521cf0ef2becd22') in 0.019878 seconds 
+  Import took 0.027273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.604886 seconds.
+  path: Assets/Sprites/Background Stages/SNES - Justice League Task Force - Gotham City Batman.png
+  artifactKey: Guid(9d08d1a7d9234b74b85088c57f510871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background Stages/SNES - Justice League Task Force - Gotham City Batman.png using Guid(9d08d1a7d9234b74b85088c57f510871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31dc8d8d03eb9e4cdc89cbb1d563fab6') in 0.090134 seconds 
+  Import took 0.096136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.090977 seconds.
+  path: Assets/Sprites/titles/Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset.png
+  artifactKey: Guid(9e291ceee0aa760419e663b005ed814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset.png using Guid(9e291ceee0aa760419e663b005ed814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8662147173bd01a139c69c58653247dd') in 0.019342 seconds 
+  Import took 0.024169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 275.335951 seconds.
+  path: Assets/Sprites/titles/Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset.png
+  artifactKey: Guid(9e291ceee0aa760419e663b005ed814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset.png using Guid(9e291ceee0aa760419e663b005ed814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9d185839b56eb309a4a8f570c975c6') in 0.101057 seconds 
+  Import took 0.106696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.811517 seconds.
+  path: Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png
+  artifactKey: Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png using Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e962b58322ee53caeae68c98fd7d73') in 0.017173 seconds 
+  Import took 0.022465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.236548 seconds.
+  path: Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png
+  artifactKey: Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png using Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce17cfd77cf5d357f9e93e3f99e563c') in 0.024063 seconds 
+  Import took 0.029121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.064167 seconds.
+  path: Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png
+  artifactKey: Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/titles/Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets.png using Guid(5de45fdced6f6d04ca8d577dcf723dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8842a8f3ba48ef9db801a26e2be30f01') in 0.049991 seconds 
+  Import took 0.056218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.123167 seconds.
+  path: Assets/Sprites/50084 copy_103.controller
+  artifactKey: Guid(09da672f12ac90c42bb7fd4f6ca7e748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/50084 copy_103.controller using Guid(09da672f12ac90c42bb7fd4f6ca7e748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e61234725fcd2fc5added11297718937') in 0.012218 seconds 
+  Import took 0.018462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.595422 seconds.
+  path: Assets/Sprites/50084 copy_38.controller
+  artifactKey: Guid(0b3183ba7f406364ab6784c2dc4d0b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/50084 copy_38.controller using Guid(0b3183ba7f406364ab6784c2dc4d0b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f40c77df8a6177a9604d8634a107a31') in 0.010836 seconds 
+  Import took 0.015267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.412880 seconds.
+  path: Assets/Sprites/50084 copy_0.controller
+  artifactKey: Guid(488dad22dfeba7e47885370baf71dada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/50084 copy_0.controller using Guid(488dad22dfeba7e47885370baf71dada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '841fbb3b6e175283411e026d2b083f4a') in 0.011929 seconds 
+  Import took 0.018060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.990629 seconds.
+  path: Assets/Sprites/50084 copy_0.controller
+  artifactKey: Guid(488dad22dfeba7e47885370baf71dada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/50084 copy_0.controller using Guid(488dad22dfeba7e47885370baf71dada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91549f6b14478e60495260ea2a35c10d') in 0.006886 seconds 
+  Import took 0.012169 seconds .
+

@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 5de45fdced6f6d04ca8d577dcf723dbf
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2686812481578607627
+    second: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_0
+  - first:
+      213: -2139079054899177918
+    second: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_1
+  - first:
+      213: 4003713498000566039
+    second: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_2
+  - first:
+      213: -2310311152272619743
+    second: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_3
+  - first:
+      213: -1278463773595058369
+    second: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_4
+  - first:
+      213: 6091946860849716308
+    second: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +59,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +93,159 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 274
+        width: 946
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04249677b9794520800000000000000
+      internalID: 2686812481578607627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_1
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 279
+        width: 1866
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469142dee67052e0800000000000000
+      internalID: -2139079054899177918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_2
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 9
+        width: 51
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a2ceb63c009730800000000000000
+      internalID: 4003713498000566039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_3
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 12
+        width: 55
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127ca206f3020ffd0800000000000000
+      internalID: -2310311152272619743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_4
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 15
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f39a4b8fbf14ee0800000000000000
+      internalID: -1278463773595058369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman The Video Game - 01 - Gotham Streets_5
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 10
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cd087b461fa8450800000000000000
+      internalID: 6091946860849716308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,88 @@
 fileFormatVersion: 2
 guid: 45c47cc7b08267b4a9789f5f5260a7cd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8894958642342165200
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_0
+  - first:
+      213: -760024080451897834
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_1
+  - first:
+      213: -4633389507640375296
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_2
+  - first:
+      213: -175820209895876992
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_3
+  - first:
+      213: -5836037917757849586
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_4
+  - first:
+      213: 2096885184704147794
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_5
+  - first:
+      213: -2552739733680642384
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_6
+  - first:
+      213: -5531461963265410671
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_7
+  - first:
+      213: 966760694399126604
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_8
+  - first:
+      213: 8978818317211776398
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_9
+  - first:
+      213: 6492261530270985479
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_12
+  - first:
+      213: -4402485900475781781
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_13
+  - first:
+      213: 2048822489593192300
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_14
+  - first:
+      213: 7955041084061275595
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_15
+  - first:
+      213: 4501486100918913211
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_30
+  - first:
+      213: 9022258959203147089
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_31
+  - first:
+      213: 6199958386032702124
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_32
+  - first:
+      213: -8163226610725870079
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_33
+  - first:
+      213: -3429576246459087300
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_34
+  - first:
+      213: 105238451234762109
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_35
+  - first:
+      213: -5814842467091084662
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_36
+  - first:
+      213: 3639575805813481742
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_37
+  - first:
+      213: 2450796763064641618
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_38
+  - first:
+      213: -5383579897470457438
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_174
+  - first:
+      213: 837323690707249592
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_175
+  - first:
+      213: 2459579478285841547
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_176
+  - first:
+      213: 4066211440278131179
+    second: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_177
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +122,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +156,600 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 391
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7898f1cd317b70800000000000000
+      internalID: 8894958642342165200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 394
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fbe7202ad375f0800000000000000
+      internalID: -760024080451897834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 391
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008c213aac4e2bfb0800000000000000
+      internalID: -4633389507640375296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 390
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08652dc537c5f8df0800000000000000
+      internalID: -175820209895876992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 316
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0045583f6a320fa0800000000000000
+      internalID: -5836037917757849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 316
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f11937f1a91d10800000000000000
+      internalID: 2096885184704147794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 318
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a0f9bcb8d29cd0800000000000000
+      internalID: -2552739733680642384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 319
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fafeb6ac4c33b0800000000000000
+      internalID: -5531461963265410671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 318
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c487cbabf9a6d00800000000000000
+      internalID: 966760694399126604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 319
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85bd2c00bb2b9c70800000000000000
+      internalID: 8978818317211776398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 319
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6cbcd675291a50800000000000000
+      internalID: 6492261530270985479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 320
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da97d166a37e2c0800000000000000
+      internalID: -4402485900475781781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_14
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 319
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f980cf231ee6c10800000000000000
+      internalID: 2048822489593192300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 320
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55c15e7bbf56e60800000000000000
+      internalID: 7955041084061275595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 245
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb841a642cd787e30800000000000000
+      internalID: 4501486100918913211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 240
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d93eea8b0853d70800000000000000
+      internalID: 9022258959203147089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 242
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fea5ad4daa0650800000000000000
+      internalID: 6199958386032702124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 241
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062baee5a466be80800000000000000
+      internalID: -8163226610725870079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3640b31392b760d0800000000000000
+      internalID: -3429576246459087300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 161
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6f8650d1e57100800000000000000
+      internalID: 105238451234762109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 211
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a0e24a5978d4fa0800000000000000
+      internalID: -5814842467091084662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 163
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e016e9e79ee528230800000000000000
+      internalID: 3639575805813481742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 163
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258252fcbaaf20220800000000000000
+      internalID: 2450796763064641618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e65f4b9ea945b0800000000000000
+      internalID: -5383579897470457438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_175
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ef9ad575ce9b00800000000000000
+      internalID: 837323690707249592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_176
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 14
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84711c018e222220800000000000000
+      internalID: 2459579478285841547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Naruto Ninja Council 2 - Sound Ninja 4_177
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1586fd2c51e6830800000000000000
+      internalID: 4066211440278131179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

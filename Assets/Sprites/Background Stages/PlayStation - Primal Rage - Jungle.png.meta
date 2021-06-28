@@ -1,7 +1,28 @@
 fileFormatVersion: 2
 guid: 170484cd9c7e8a640828b508250bca6e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7742734993452455412
+    second: PlayStation - Primal Rage - Jungle_0
+  - first:
+      213: 8378966590607658791
+    second: PlayStation - Primal Rage - Jungle_2
+  - first:
+      213: 929912011861957012
+    second: PlayStation - Primal Rage - Jungle_3
+  - first:
+      213: -1305577286992812646
+    second: PlayStation - Primal Rage - Jungle_4
+  - first:
+      213: 5225643976565109315
+    second: PlayStation - Primal Rage - Jungle_5
+  - first:
+      213: -5340526001565592235
+    second: PlayStation - Primal Rage - Jungle_6
+  - first:
+      213: 4752242656047980614
+    second: PlayStation - Primal Rage - Jungle_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +62,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +96,180 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_0
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 110
+        width: 146
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa745db874c8490800000000000000
+      internalID: -7742734993452455412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 512
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f090278b1184470800000000000000
+      internalID: 8378966590607658791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 297
+        width: 108
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49996634c06b7ec00800000000000000
+      internalID: 929912011861957012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 113
+        width: 229
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95a9fdef58a1ede0800000000000000
+      internalID: -1305577286992812646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 112
+        width: 289
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b2d19287358840800000000000000
+      internalID: 5225643976565109315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_6
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 4
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55512fa95e3a2e5b0800000000000000
+      internalID: -5340526001565592235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Primal Rage - Jungle_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 1024
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e238648b53f140800000000000000
+      internalID: 4752242656047980614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

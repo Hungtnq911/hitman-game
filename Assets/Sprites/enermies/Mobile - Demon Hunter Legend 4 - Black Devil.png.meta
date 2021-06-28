@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: 777bed947540ceb47a9aa9a0af6cf8ff
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4739860814322127424
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_0
+  - first:
+      213: 3416708917731047123
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_1
+  - first:
+      213: 5156224444486082500
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_2
+  - first:
+      213: -4053754055447273805
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_65
+  - first:
+      213: -4802242858293237558
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_66
+  - first:
+      213: 723905247850630287
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_67
+  - first:
+      213: 5474462393258805747
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_83
+  - first:
+      213: -3831119942241185627
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_84
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +65,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +99,201 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2985c3b1a83eb0800000000000000
+      internalID: -4739860814322127424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 307
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b44e78a69a6f20800000000000000
+      internalID: 3416708917731047123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 307
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf57cb30d69e8740800000000000000
+      internalID: 5156224444486082500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be144e0a2c2eb7c0800000000000000
+      internalID: -4053754055447273805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 124
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8664250910b5db0800000000000000
+      internalID: -4802242858293237558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8d2dccf3db0a00800000000000000
+      internalID: 723905247850630287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f90d6eaa8239fb40800000000000000
+      internalID: 5474462393258805747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09ccee5b025dac0800000000000000
+      internalID: -3831119942241185627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
