@@ -25,7 +25,7 @@ public class idiot_left_right : MonoBehaviour
 
         transform.Translate(directionTranslation);
 
-
+       // for (int i=0;i<5;i++)
         CheckForWalls();
     }
 
