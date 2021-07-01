@@ -216,6 +216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 115688065}
   - component: {fileID: 115688066}
+  - component: {fileID: 115688067}
   m_Layer: 0
   m_Name: Browser Games - Teenage Mutant Ninja Turtles Double Damage - Streets Tileset_20
     (4)
@@ -289,6 +290,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &115688067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115688064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f09cc4e2cc381e2428a90bb2b4ce76ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+  MaxHealth: 100
 --- !u!1 &156297276
 GameObject:
   m_ObjectHideFlags: 0
@@ -670,9 +685,9 @@ GameObject:
   - component: {fileID: 781955929}
   - component: {fileID: 781955928}
   - component: {fileID: 781955934}
-  m_Layer: 0
-  m_Name: Mobile - Demon Hunter Legend 4 - Black Devil_0
-  m_TagString: Untagged
+  m_Layer: 6
+  m_Name: bad 1
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -710,7 +725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4398759e397f5d745a6c0a63e461cd89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mMovementSpeed: 1.5
+  mMovementSpeed: 0.25
   bIsGoingRight: 1
   mRaycastingDistance: 1
 --- !u!61 &781955930
@@ -749,7 +764,7 @@ Animator:
   m_GameObject: {fileID: 781955927}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7db4d9e54195e5b4a984f7aef8b4c792, type: 2}
+  m_Controller: {fileID: 9100000, guid: fd250bbbfb231e745abd95ed585f5934, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -835,7 +850,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f09cc4e2cc381e2428a90bb2b4ce76ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHealth: 100
+  animator: {fileID: 781955931}
+  MaxHealth: 80
 --- !u!1 &809348536
 GameObject:
   m_ObjectHideFlags: 0
@@ -2649,6 +2665,7 @@ GameObject:
   - component: {fileID: 1399695838}
   - component: {fileID: 1399695837}
   - component: {fileID: 1399695836}
+  - component: {fileID: 1399695845}
   m_Layer: 3
   m_Name: player
   m_TagString: Untagged
@@ -2672,7 +2689,7 @@ MonoBehaviour:
   attackPoint: {fileID: 463165362}
   enemyLayers:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 64
   attackRange: 0.8
 --- !u!95 &1399695837
 Animator:
@@ -2874,6 +2891,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1399695845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1399695835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b07d3968b2e08034381417c365a9927c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1399695837}
 --- !u!1 &1515084692
 GameObject:
   m_ObjectHideFlags: 0
@@ -3137,9 +3167,9 @@ GameObject:
   - component: {fileID: 1840271081}
   - component: {fileID: 1840271080}
   - component: {fileID: 1840271086}
-  m_Layer: 0
-  m_Name: Mobile - Demon Hunter Legend 4 - Black Devil_0 (1)
-  m_TagString: Untagged
+  m_Layer: 6
+  m_Name: bad 2
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3177,7 +3207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4398759e397f5d745a6c0a63e461cd89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mMovementSpeed: 1.5
+  mMovementSpeed: 0.5
   bIsGoingRight: 1
   mRaycastingDistance: 1
 --- !u!61 &1840271082
@@ -3216,7 +3246,7 @@ Animator:
   m_GameObject: {fileID: 1840271079}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7db4d9e54195e5b4a984f7aef8b4c792, type: 2}
+  m_Controller: {fileID: 9100000, guid: fd250bbbfb231e745abd95ed585f5934, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3302,6 +3332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f09cc4e2cc381e2428a90bb2b4ce76ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 1840271083}
   MaxHealth: 100
 --- !u!1 &1883252769
 GameObject:
@@ -3401,9 +3432,9 @@ GameObject:
   - component: {fileID: 1930776774}
   - component: {fileID: 1930776773}
   - component: {fileID: 1930776779}
-  m_Layer: 0
-  m_Name: Mobile - Demon Hunter Legend 4 - Black Devil_0 (2)
-  m_TagString: Untagged
+  m_Layer: 6
+  m_Name: bad 3
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3480,7 +3511,7 @@ Animator:
   m_GameObject: {fileID: 1930776772}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7db4d9e54195e5b4a984f7aef8b4c792, type: 2}
+  m_Controller: {fileID: 9100000, guid: fd250bbbfb231e745abd95ed585f5934, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3566,7 +3597,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f09cc4e2cc381e2428a90bb2b4ce76ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHealth: 100
+  animator: {fileID: 1930776776}
+  MaxHealth: 150
 --- !u!1 &1994929078
 GameObject:
   m_ObjectHideFlags: 3
