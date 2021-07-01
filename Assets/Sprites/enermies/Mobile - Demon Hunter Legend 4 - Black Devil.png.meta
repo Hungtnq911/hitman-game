@@ -26,6 +26,9 @@ TextureImporter:
   - first:
       213: -3831119942241185627
     second: Mobile - Demon Hunter Legend 4 - Black Devil_84
+  - first:
+      213: -1189540592267664539
+    second: Mobile - Demon Hunter Legend 4 - Black Devil_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -290,6 +293,27 @@ TextureImporter:
       bones: []
       spriteID: 5a09ccee5b025dac0800000000000000
       internalID: -3831119942241185627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Demon Hunter Legend 4 - Black Devil_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 64
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636aff3227ed7fe0800000000000000
+      internalID: -1189540592267664539
       vertices: []
       indices: 
       edges: []
